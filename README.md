@@ -25,6 +25,6 @@ The XGBClassifier with a reduced feature set of ~70 (from the original ~400) sel
    The most important features in determining if it will try to kill you were the presence of the intimidation, deceptiom, and diplomacy skill, as well as if it were an animal or other type of creature, and the degree to which it could see in the dark.
    
    ## Conclusion
-   Using this model we can better protect the NPC's in our Pathfinder 2E editions. 
+   Using this model we can better protect the NPC's in our Pathfinder 2E games. 
 
  
